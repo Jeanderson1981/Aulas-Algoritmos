@@ -1,0 +1,17 @@
+let idade = 18
+
+//se a idae for maior ou igual a 18 execute o codigo
+if (idade >= 17) {
+
+    console.log ( "voce é maior de idade")
+} else {
+
+    console.log("voce é de menor")
+}
+ 
+//dentro dos parenteses vai a condicao
+//dentro dos colchetes vai o codigo a ser executado se acondicao for verdadeira 
+   
+ 
+
+// ELSE SIGNIFICA SENAO executa outro codigo

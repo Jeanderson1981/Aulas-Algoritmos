@@ -1,0 +1,40 @@
+//se a idae for maior ou igual a 18 execute o codigo
+if (idade >= 17) {
+
+    console.log ( "voce é maior de idade")
+}
+ 
+//dentro dos parenteses vai a condicao
+//dentro dos colchetes vai o codigo a ser executado se acondicao for verdadeira 
+   
+  else  if  (idade>= 13 && idade <= 17 ) {  
+      console.log("voce é adolescente")
+    }
+   
+   else {
+    console.log ("voce é crianca")
+   }
+   
+// ELSE SIGNIFICA SENAO executa outro codigo
+
+let paisdeorigem
+
+if ( paisdeorigem === "brasil") {
+    console.log ("voce é brasileiro")
+} else if (paisdeorigem ===  "russia") {
+    console.log ("Voce é russo")
+} else if (paisdeorigem ===  "mexico") {
+    console.log ("Voce é mexicano")
+} else if (paisdeorigem ===  "americano") {
+console.log ("Voce é americano")
+} else if (paisdeorigem ===  "italia"){
+console.log ("Voce é italiano")
+} else {
+console.log ( "nacionalidade nao encontrada")
+}
+
+
+
+
+
+
